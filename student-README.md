@@ -12,7 +12,7 @@
 
 3. What happens if you run the client when the server is not running?
 
-- the client will show **ConnectionRefusedError**.
+- the client will show _**ConnectionRefusedError**._
 
 4. What happens if you run the server while the server is already running?
 
@@ -20,9 +20,8 @@
 
 5. What changes did you make to finish this assignment?
 
--
+- I move the while loop above accepting-client code and change the if statement for checking client message.
 
 6. What resources did you use to complete this assignemnt? Make a Markdown list of web links below.
 
 - [Real Python tutorial](https://realpython.com/python-sockets/#multi-connection-client-and-server)
--
